@@ -8,7 +8,7 @@
 # find_the_site
 ## Are you looking for a company/enterprise website? This small library finds websites in [duckduckgo search engine](https://duckduckgo.com/?t=hk)
 #### Optionally you can use:
-- the [ecosia](https://ecosia.org) search engine, to support environment of earth from polution and for better future let make efforts together. 
+- the [ecosia](https://ecosia.org) search engine, to support environment of earth from pollution and for better future let us  make efforts together. 
 ##### How to Install ?
 
 ```
